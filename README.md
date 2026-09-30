@@ -1,6 +1,6 @@
 ## Hi there 👋
 # Welcome to my GitHub Repository
-Here, you’ll find a collection of projects showcasing my work, including software development, algorithms, and various coding experiments. Feel free to explore, contribute, and get in touch if you have any questions or suggestions.
+Welcome to my GitHub! I use this space to share projects in data analysis, application development, and practical problem solving. You’ll find projects covering data cleaning, sales analysis, and web application development, with more projects being added as I continue learning and building.
 <!--
 **Anchal82-del/Anchal82-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
